@@ -3,10 +3,10 @@ Terminal-Based System Resource Monitor
 
 ---
 
-### 📌 Website (Presentation)
+###  Website (Presentation)
 https://isthisdeception.github.io/system-monitor/info.html
 
-### 📄 Project Report (PDF)
+###  Project Report (PDF)
 https://drive.google.com/file/d/1cDmoXvE_U0uUJgHZPtKN7wgGgsO02FUo/view?usp=sharing
 
 ---
@@ -31,3 +31,4 @@ The project is designed for learning, OS demonstrations, and simple system diagn
 ```bash
 git clone https://github.com/isthisdeception/resource-monitor.git
 cd resource-monitor
+./htoppp.sh
