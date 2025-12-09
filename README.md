@@ -27,7 +27,6 @@ The project is designed for learning, OS demonstrations, and simple system diagn
 
 ## How to Run on Any Linux Machine
 
-### Clone the Repository
 ```bash
 git clone https://github.com/isthisdeception/resource-monitor.git
 cd resource-monitor
